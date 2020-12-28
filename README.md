@@ -1,4 +1,4 @@
-<img src="https://instagram.fsdu1-1.fna.fbcdn.net/v/t51.2885-15/e35/19050229_219196401921034_8772866161193779200_n.jpg?_nc_ht=instagram.fsdu1-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=hxIJApy19hYAX9WXtVc&tp=1&oh=185a5a19db9b65bc3abf91c13dd960e6&oe=5FF45392" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://github.com/IdeyasMarceloMendes/IdeyasMarceloMendes/blob/main/logo_ideyas.it.jpg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
   Atualmente desenvolvedor back-end em ideyas.it com foco em negócio, apaixonado por café, gosto de: modelar e estruturar dados, automatização de processos com robos e UX. 
