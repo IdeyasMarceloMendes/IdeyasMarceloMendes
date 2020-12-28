@@ -3,25 +3,25 @@
 <p align="left"> 
   Atualmente desenvolvedor back-end em ideyas.it com foco em negócio, apaixonado por café, gosto de: modelar e estruturar dados, automatização de processos com robos e UX. 
 </p>
-
 <p align="left">
   🦄 Linguagens: <strong> Python, javascript e Shell script.</strong>
 </p>
-
 <p align="left">
   💼 Ferramentas: <strong>Visual code, Dbeaver, Posgtgres, Heroku.</strong>
 </p>
-
 <p align="left">
   💌 Segue alguns dos meus contatos: ⤵️
 </p>
-
 <p align="left">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-mendes/" /></a>
+     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" />
+</a>
+
+  
+<!--  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-mendes/" /></a>-->
 
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
